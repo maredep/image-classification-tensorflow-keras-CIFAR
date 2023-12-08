@@ -1,6 +1,3 @@
-# image-classification-tensorflow-keras-CIFAR
-Image Classification
-
 # Introduction: Mobile Image Recognition App with TensorFlow Lite and Kotlin
 
 As a passionate developer with a keen interest in machine learning and mobile application development, I embarked on a project to create a cutting-edge image recognition app using TensorFlow Lite and Kotlin. This project showcases my proficiency in deploying machine learning models on Android devices, bridging the gap between artificial intelligence and mobile technology.
